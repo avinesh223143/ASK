@@ -1,8 +1,8 @@
-# ASK
+# EX 5 Amplitude Shift Keying (ASK)
 ## Date:15/04/25
 ### Aim
     Implement and analyze Amplitude Shift Keying (ASK) using Python colab.
-### Tools required
+### Tools requiredE
     Personal computer
     Google colab software
 ### Program
