@@ -1,5 +1,5 @@
-# EX 5 Amplitude Shift Keying (ASK)
-## Date:15/04/25
+# EX 3a Amplitude Shift Keying (ASK)
+## Date:05/04/25
 ### Aim
     Implement and analyze Amplitude Shift Keying (ASK) using Python colab.
 ### Tools requiredE
